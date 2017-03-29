@@ -13,6 +13,7 @@ public class Graph {
     public Graph(ArrayList<Node> nodes) {
         this.nodes = nodes;
         nodeStack.push(nodes.get(0));
+        System.out.println("Visited: " + nodeStack.peek().getName());
     }
 
     public void depthFirstSearch() {
@@ -24,6 +25,7 @@ public class Graph {
     public void visit() {
         System.out.println("Visited: " + nodeStack.peek().getName());
         visitedNodes.add(nodeStack.peek());
+        nodeStack.push(getUnvisitedNode());
     }
 
     public Node getUnvisitedNode() {
