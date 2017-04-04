@@ -23,16 +23,7 @@ public class Node {
         if(!this.edgeNodes.contains(node)) {
             this.edges.add(new Edge(this, node));
             this.edgeNodes.add(node);
-            System.out.println("Edge has been added");
-        } else {
-            System.out.println("Edge already exists");
-        }
-    }
-    public void addDirectedEdge(Node node) {
-        if(!this.edgeNodes.contains(node)) {
-            this.edges.add(new Edge(this, node));
-            this.edgeNodes.add(node);
-            node.addEdge(this);
+            node.getEdgeNodes().add(this);
         } else {
             System.out.println("Edge already exists");
         }

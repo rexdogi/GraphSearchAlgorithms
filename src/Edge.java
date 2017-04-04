@@ -3,27 +3,27 @@
  */
 public class Edge {
 
-    private Node parentNode;
-    private Node childNode;
+    private Node start;
+    private Node end;
     private int weight;
 
     public Edge(Node parentNode, Node childNode) {
-        this.parentNode = parentNode;
-        this.childNode = childNode;
+        this.start = parentNode;
+        this.end = childNode;
     }
 
     public Edge(Node parentNode, Node childNode, int weight) {
-        this.parentNode = parentNode;
-        this.childNode = childNode;
+        this.start = parentNode;
+        this.end = childNode;
         this.weight = weight;
     }
 
-    public Node getParentNode() {
-        return parentNode;
+    public Node getStarttNode() {
+        return start;
     }
 
-    public Node getChildNode() {
-        return childNode;
+    public Node getEndNode() {
+        return end;
     }
 
     public int getWeight() {
