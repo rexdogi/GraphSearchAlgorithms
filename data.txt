@@ -1,0 +1,13 @@
+6
+A Paulius Mikalauskas 70
+B Vytautas Jokūbas 25
+C Ąžuolas Edgaras 66
+D Petras Laurynas 33
+E Artūras Valdas 10
+F Pranciškus Viktoras 18
+0 0 0 0 0 1
+0 0 0 1 0 1
+0 0 0 0 1 0
+0 0 1 0 0 0
+1 0 1 0 0 0
+0 0 0 1 0 0

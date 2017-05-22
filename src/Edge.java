@@ -3,8 +3,8 @@
  */
 public class Edge {
 
-    private Node start;
-    private Node end;
+    private Node<Asmuo> start;
+    private Node<Asmuo> end;
     private int weight;
 
     public Edge(Node parentNode, Node childNode) {

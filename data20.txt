@@ -1,0 +1,41 @@
+20
+A Paulius Mikalauskas 70
+B Vytautas Jokūbas 25
+C Ąžuolas Edgaras 66
+D Petras Laurynas 33
+E Artūras Valdas 10
+F Pranciškus Viktoras 18
+G Paulius Mikalauskas 70
+H Vytautas Jokūbas 25
+I Ąžuolas Edgaras 66
+J Petras Laurynas 33
+K Artūras Valdas 10
+L Pranciškus Viktoras 18
+M Paulius Mikalauskas 70
+N Vytautas Jokūbas 25
+O Ąžuolas Edgaras 66
+P Petras Laurynas 33
+Q Artūras Valdas 10
+R Pranciškus Viktoras 18
+S Paulius Mikalauskas 70
+T Vytautas Jokūbas 25
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 0 1
+0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 1 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 1 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1
